@@ -1,0 +1,26 @@
+body{
+    background: grey;
+    margin-top: 0%;
+}
+header{
+    background-color: white;
+    padding: 5px;
+}
+.picture{
+ margin-left: 35%;
+ padding-top: 20px;
+ background-color: white;
+ width: 400px;
+ height: 500px;
+}
+.date{
+float: right;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+    
+}
